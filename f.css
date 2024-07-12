@@ -1,0 +1,20 @@
+
+
+html{ background-color:#a374db;}
+h1{ color:white;
+text-align: center;}
+
+img{ width: 500px;}
+a:link{
+    padding: 10px 20px;
+    border:solid 1px black;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    width: 100px ;
+    margin: 10px 0px;
+}
+p{float: right;}
+table{ 
+    float: right; color: white;}
